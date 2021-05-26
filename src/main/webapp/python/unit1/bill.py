@@ -1,0 +1,13 @@
+#To print the bill payed by a merchant
+n=input('enter the item name')
+q=float(input('enter the item quantity'))
+p=float(input('enter the price'))
+d=float(input('enter the discount'))
+total=(q*p)
+dis=total*((d)/100)
+g=(total-dis)
+print ('*******************BILL*************************')
+print ('Item name\tQuantity\tPrice\tDiscount')
+print ('%s\t\t%f\t\t%f\t%f'%(n,q,p,d))
+print ('*****************Visit Again********************')
+print ('Total price is',g)

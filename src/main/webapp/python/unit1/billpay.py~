@@ -1,0 +1,14 @@
+# to calculate bill amount for item.
+a=raw_input("enter item name")
+b=input("enter the quantity")
+p=input('enter price of item')
+d=input('enter the discount')
+tp=b*p
+dis=tp*(d/100)
+g=tp-dis
+print "*******************BILL**********************"
+print "item name\tquantity\tprice\tdiscount"
+print "{}\t	{}\t	{}\t    {}".format(a,b,p,d)
+print 'total price is ',g
+print 'image is',img(/home/mahesh/Desktop/m.shiva files/insp/apj abdul kalam/download.jpg)
+print'***************PLEASE VISIT AGAIN**************'

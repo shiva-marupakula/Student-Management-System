@@ -1,0 +1,14 @@
+mylist=[1,2,3,4,5,6,[7,8,9,10]]
+print(mylist[6][1])
+mylist.append('shiva')
+print(mylist)
+list1=[11,22,33,44,55]
+mylist.extend(list1)
+print(mylist)
+mylist.insert(0,'marupakula')
+print(mylist)
+a=['a','b','c','d','e','f']
+b=['g','h','i','j','k']
+x=['shivamarupakula']
+c=a+b+x
+print(c)

@@ -1,0 +1,6 @@
+#to read floating point numbers.
+a=input('enter first num')
+b=input('enter another num')
+print ('sum is ',float(a+b)
+
+

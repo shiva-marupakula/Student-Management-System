@@ -1,0 +1,20 @@
+mystring='shiva marupakula student of RGUKT basar'
+#using string modifiers
+print('myname is%s and my num is%d:'%('shiva',666))
+print(mystring.capitalize())
+print(mystring.title())
+print(mystring.lower())
+print(mystring.upper())
+print(mystring.endswith('kasar'))
+print(mystring.startswith('s'))
+print(mystring.isupper())
+print(mystring.islower())
+print(mystring.isdigit())
+print(mystring.isalpha())
+print(mystring.swapcase())
+print(mystring.count('a'))
+print(mystring.find('shiva'))
+print(mystring.rfind('a'))
+print(mystring.split(' '))
+print(mystring.replace('shiva','SHIVA')
+print(

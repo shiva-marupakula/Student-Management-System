@@ -1,0 +1,5 @@
+# to calculate area of circle.
+r=input('enter radius of circle')
+p=input('enter phi value')
+area=p*r**2
+print "area of circle is",area

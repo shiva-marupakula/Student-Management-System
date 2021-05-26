@@ -1,0 +1,2 @@
+myset=set()
+print(myset)

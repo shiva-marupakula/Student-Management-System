@@ -1,0 +1,8 @@
+#to calculte salary of employee based on basicpay.
+bp=input("enter basic pay")
+a=float(10)/float(100)
+print a
+hra=bp*0.10
+ta=bp*0.05
+ts=bp+hra+ta
+print "total salary of employee is",ts

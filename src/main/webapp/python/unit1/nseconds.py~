@@ -1,0 +1,6 @@
+d=input('enter num of days')
+h=input('enter num of hours')
+m=input('enter num of minutes')
+s=input("num of sec in one min")
+ts=d*h*m*s
+print"total secs are",ts

@@ -1,0 +1,2 @@
+a=raw_input('enter a character')
+print ord(a)

@@ -1,0 +1,3 @@
+a=input("enter first name")
+b=raw_input("enter last name")
+print a+b
